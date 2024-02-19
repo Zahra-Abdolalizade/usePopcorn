@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/usepopcornformovies.github.io/static/css/main.b7436ad4.css",
-    "main.js": "/usepopcornformovies.github.io/static/js/main.97aea9c2.js",
-    "index.html": "/usepopcornformovies.github.io/index.html",
-    "main.b7436ad4.css.map": "/usepopcornformovies.github.io/static/css/main.b7436ad4.css.map",
-    "main.97aea9c2.js.map": "/usepopcornformovies.github.io/static/js/main.97aea9c2.js.map"
+    "main.css": "/usePopcorn/static/css/main.b7436ad4.css",
+    "main.js": "/usePopcorn/static/js/main.97aea9c2.js",
+    "index.html": "/usePopcorn/index.html",
+    "main.b7436ad4.css.map": "/usePopcorn/static/css/main.b7436ad4.css.map",
+    "main.97aea9c2.js.map": "/usePopcorn/static/js/main.97aea9c2.js.map"
   },
   "entrypoints": [
     "static/css/main.b7436ad4.css",
